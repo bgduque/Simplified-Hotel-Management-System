@@ -5,7 +5,7 @@ import com.duque.Indicators.FrontDesk;
 /**
  * HotellApp
  */
-public class HotellApp {
+public class HotelApp {
 
     static Scanner sc = new Scanner(System.in);
     static int choice;
